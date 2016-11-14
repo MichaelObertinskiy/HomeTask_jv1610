@@ -28,8 +28,7 @@ public class task1 {
             }
         }    
         System.out.println(""); 
-    } 
-    
+    }     
     
     static int showNumRes(int x){
         int res=0;
