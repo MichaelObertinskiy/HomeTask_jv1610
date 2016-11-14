@@ -30,6 +30,7 @@ public class task1 {
         System.out.println(""); 
     } 
     
+    
     static int showNumRes(int x){
         int res=0;
         for (int j=0;j<=100;j++){
